@@ -2,6 +2,7 @@
 
 I am a physicist at Princeton University, where I study quantum materials through both experimentation and simulation. Beyond my primary research, I’m broadly interested in modeling and interpreting intriguing phenomena in a variety of fields, ranging from finance to sports.
 
+[Email me](mailto:chengzijia@yahoo.com)
 
 ## Here are some quick stats about my GitHub repository:
 
