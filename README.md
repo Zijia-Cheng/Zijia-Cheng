@@ -1,6 +1,6 @@
 ## Hello, I'm Zijia 👋
 
-I am a physicist at Princeton University, where I study quantum materials through both experimentation and simulation([Google Scholar](https://scholar.google.com/citations?user=KNUkxEgAAAAJ&hl=en)). Beyond my primary research, I’m broadly interested in modeling and interpreting intriguing phenomena in a variety of fields, ranging from finance to sports.
+I am a physicist at Princeton University, where I study quantum materials through both experimentation and simulation([Google Scholar] (https://scholar.google.com/citations?user=KNUkxEgAAAAJ&hl=en)). Beyond my primary research, I’m broadly interested in modeling and interpreting intriguing phenomena in a variety of fields, ranging from finance to sports.
 
 [Email me](mailto:chengzijia@yahoo.com)
 
