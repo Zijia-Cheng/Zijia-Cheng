@@ -5,9 +5,21 @@ I am a physicist at Princeton University, where I study quantum materials throug
 
 ## Here are some quick stats about my GitHub repository:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zijia-Cheng&show_icons=true&theme=radical)
+<div style="width:100px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Zijia-Cheng&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    style="width:40%;" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zijia-Cheng&layout=compact&theme=radical)
+<div style="width:100px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zijia-Cheng&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    style="width:40%;" />
+</div>
+
+
 
 
 
